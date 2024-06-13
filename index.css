@@ -1,0 +1,23 @@
+*{
+    transition: all 0.6s;
+    font-size: 200px;
+}
+
+html {
+    height: 100%;
+}
+
+body{
+    color: #2888;
+}
+
+#main{
+    
+    width: 80%;
+    height: 100vh;
+    text-align: center;
+}
+
+.err{
+	  vertical-align: middle;
+}
